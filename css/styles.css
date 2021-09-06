@@ -608,6 +608,8 @@ progress {
 
 .img-skill {
   max-width: 5%;
+  width: 5%;
+  max-height: 5%;
   height: 5%;
 }
 
